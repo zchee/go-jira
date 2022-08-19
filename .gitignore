@@ -61,3 +61,4 @@ coverage.out
 
 # binary
 /jira
+/hack/tools/bin
